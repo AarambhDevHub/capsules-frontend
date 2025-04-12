@@ -9,7 +9,7 @@ The frontend for **Capsule** — a sleek, responsive interface built using **Nex
 - [Next.js](https://nextjs.org/)
 - TypeScript
 - Tailwind CSS
-- Axios (or Fetch API)
+- Axios
 
 ---
 
