@@ -1,5 +1,7 @@
 # Capsule Frontend
 
+[![Watch the video](https://img.youtube.com/vi/NrsxkX_xgns/maxresdefault.jpg)](https://youtu.be/NrsxkX_xgns)
+
 The frontend for **Capsule** — a sleek, responsive interface built using **Next.js**. It connects to the Capsule backend (powered by Rust + Axum) and currently works without authentication. Authentication will be added in the future as **Capsule Unlock**.
 
 ---
